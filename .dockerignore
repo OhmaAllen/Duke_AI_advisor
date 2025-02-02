@@ -1,0 +1,31 @@
+# 忽略 Git 相关文件
+.git
+.gitignore
+
+# 忽略 Jupyter Notebook 缓存
+.ipynb_checkpoints/
+
+# 忽略大数据文件
+data/
+*.jsonl
+*.db
+*.csv
+*.log
+*.pkl
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 IDE/编辑器配置
+.vscode/
+.idea/
+*.swp
+
+# 忽略 Docker 自己的构建缓存
+.dockerignore
+Dockerfile
+1.web_scrap/
+2.data_preprocess/
