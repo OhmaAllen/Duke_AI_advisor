@@ -12,7 +12,7 @@ Duke AI Advisor is an AI-powered course selection assistant designed for Duke Un
 - [API Integration](#api-integration)
 - [中文介绍](#%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D)
 
-## UI Demo
+## UI Demo (this is the debugging UI so you can see the database file got by RAG)
 ![demo image](web_UI_demo.png)
 
 ## Project Structure
